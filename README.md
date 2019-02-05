@@ -1,7 +1,7 @@
 ## Fizz Buzz
 Fizz Buzz is often used to test basic programming ability.
 1. The programmer is asked to make a program that counts to 100.
-2. replace numbers devisable by three with the word "fizz".
+2. Replace numbers devisable by three with the word "fizz".
 3. Replace numbers devisable by five with the word "buzz".
 4. Numbers divisible by both become "fizz buzz".
 
