@@ -8,6 +8,7 @@ Fizz Buzz is often used to test basic programming ability.
 I have worked with a handful of languages over the last few years.
 For fun I have written fizz buzz examples for the following languages:
 
+* [C++](fizzbuzz.cpp)
 * [Python](fizzbuzz.py)
 * [Java](fizzbuzz.java)
 * [Java Script](fizzbuzz.js)
