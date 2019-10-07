@@ -8,8 +8,6 @@ Numbers divisible by both become fizz buzz.
 #include <iostream>
 using namespace std;
 
-#include <iostream>
-
 int main() {
     int i=0;
     
